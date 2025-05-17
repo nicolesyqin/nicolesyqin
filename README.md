@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6780ed8470129741a8c4fddf?variant=dark&roadmaps=python%2Cfrontend%2Cai-data-scientist%2Caws)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6780ed8470129741a8c4fddf?variant=dark)](https://roadmap.sh)
