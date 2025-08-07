@@ -1,5 +1,5 @@
 ## Hi there, I'm Nicole 👋
-### Bachelor of Commerce/Bachelor of Science Conjoint, majoring in Statistics and Information Systems
+### Bachelor of Commerce/Bachelor of Science Conjoint at the University of Auckland, majoring in Statistics and Information Systems
 
 
 
